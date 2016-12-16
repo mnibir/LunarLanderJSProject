@@ -12,10 +12,10 @@
 
 * El juego se interrumpe si clicamos sobre alguna de las diferentes opciones del menú:
 						
-	* a) ver las instrucciones del juego,
-	* b) controlar si queremos o no música mientras desciende la nave,
-	* c) cambiar de nave durante el descenso/frenado,
-	* d) reiniciar el juego,
-	* e) salir del juego,
-	* f) informarnos acerca del juego
+	* ver las instrucciones del juego,
+	* controlar si queremos o no música mientras desciende la nave,
+	* cambiar de nave durante el descenso/frenado,
+	* reiniciar el juego,
+	* salir del juego,
+	* informarnos acerca del juego
     
