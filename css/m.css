@@ -43,6 +43,7 @@ li{
 	display:none;
 }
 
+
 .d{
 	position:fixed;bottom:0px;
 	height:10%;
@@ -72,6 +73,11 @@ li{
 
 #cambioNave{
 	cursor: pointer;
+}
+
+#volver{
+	text-align: center;
+	background-color: black;
 }
 
 #botonrojo{

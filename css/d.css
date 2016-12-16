@@ -79,6 +79,11 @@ li{
 	cursor: pointer;
 }
 
+#volver{
+	text-align: center;
+	background-color: black;
+}
+
 #botonrojo{
 	width: 100%;
 	margin-right: 50px;
